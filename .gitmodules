@@ -1,0 +1,6 @@
+[submodule "uboot"]
+	path = uboot
+	url = git@github.com:royalegarden/uboot.git
+[submodule "linux"]
+	path = linux
+	url = git@github.com:royalegarden/linux.git
